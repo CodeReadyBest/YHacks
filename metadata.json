@@ -1,5 +1,5 @@
 {
-  "name": "Hello World React App",
-  "description": "A simple React and TypeScript web app that displays 'Hello World' using Tailwind CSS for styling.",
+  "name": "React User Directory",
+  "description": "A simple user directory app built with React, TypeScript, and Tailwind CSS, displaying a list of users from mock data.",
   "requestFramePermissions": []
 }
