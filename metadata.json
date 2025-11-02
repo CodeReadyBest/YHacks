@@ -1,0 +1,5 @@
+{
+  "name": "Hello World React App",
+  "description": "A simple React and TypeScript web app that displays 'Hello World' using Tailwind CSS for styling.",
+  "requestFramePermissions": []
+}
